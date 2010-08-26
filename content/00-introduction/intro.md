@@ -14,7 +14,7 @@ This book will walk you through the basics of web and developing for the web. In
 
 #### Website vs. Web App
 
-#### CMS vs. Framework
+### CMS vs. Framework
 
 CMS's and Frameworks are both tools that are used to create websites. But what are they, and when should I use each?
 
@@ -50,3 +50,15 @@ There are a wide variety of frameworks, with many different paradigms. Here is a
 + [qooxdoo](http://qooxdoo.org/)
 
 Essentially, if you want to store and display primarily textual data, you probably want a CMS. However, if you want to create a more dynamic web app, you probably want a Framework.
+
+### IDEs
+
+IDE stands for Integrated Development Environment and is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of:
+
++ a source code editor
++ a compiler and/or an interpreter
++ build automation tools
++ a debugger
+
+In the context of the lessons and tasks in this book, some IDEs which we recommend are: 
+

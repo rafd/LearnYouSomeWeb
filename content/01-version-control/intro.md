@@ -5,6 +5,8 @@ title: Version Control
 Version Control
 ==============
 
+The goal of this chapter is to familiarize you with version control, and learn how to use git and github. This is a very useful skill, and can be applied to any sort of programming you may do in the future. 
+
 What is it?
 -----------
 
