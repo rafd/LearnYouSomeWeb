@@ -6,6 +6,13 @@ layout: default
 Learn You Some Web
 ==================
 
+About
+-----
+
+Hacker Academy (HA) was created to help bring together students who have an interest in learning to develop web applications. Ever wonder how Facebook, twitter, or certain iPhone apps was developed? You can make your own at HA! We will provide you with resources and environment to allow your inner hacker to prosper (in a constructive way of course).
+
+This is the Learn You Some Web book, where a step-by-step guide will walk you through some of the basics of web development. No prior experience is required, take a look around and get coding!
+
 
 PART 0: Getting Started
 
