@@ -1,6 +1,6 @@
 --- 
-title: Introduction
+title: Dynamic Web App
 ---
 
-Introduction
-============
+Dynamic Web App
+==============

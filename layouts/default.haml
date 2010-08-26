@@ -2,10 +2,28 @@
 %html(lang="en")
   %head
     %meta(charset="utf-8")
-    %title= "LearnYouSomeWeb #{@item[:title]}"
-    %link(rel="stylesheet" type="text/css" href="stylesheets/style.css" media="screen")
+    %title= "#{@item[:title]} - LearnYouSomeWeb"
+    %link(rel="stylesheet" type="text/css" href="/stylesheets/style.css" media="screen")
   %body
     #main
       = yield
     #sidebar
-      Book Chapters and Navigation Here
+      %ul
+        %li= link_to "Home", "/"
+      %ul
+        %li 
+          = link_to "Introduction", "/00-introduction/intro.html"
+          -#%ul
+            %li ...
+        %li 
+          = link_to "Version Control", "/01-version-control/intro.html"
+          -#%ul
+            %li ...
+        %li 
+          = link_to "Static Website", "/02-static-website/intro.html"
+          -#%ul
+            %li ...
+        %li 
+          = link_to "Dynamic Web App", "/03-dynamic-web-app/intro.html"
+          -#%ul
+            %li ...

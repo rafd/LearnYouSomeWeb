@@ -1,6 +1,6 @@
 --- 
-title: Introduction
+title: Static Website
 ---
 
-Introduction
-============
+Static Website
+==============

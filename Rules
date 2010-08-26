@@ -23,8 +23,20 @@ route '/stylesheets/*/' do
   item.identifier.chop + '.css'
 end
 
-route '*' do
-  item.identifier + 'index.html'
+route '/home/' do
+  '/index.html'
 end
+
+html_extensions = %w[html md]
+
+route '*' do
+  if html_extensions.include?(item[:extension])
+    item.identifier.chop + ".html"
+  else
+    item.identifier + 'index.html'
+  end
+end
+
+
 
 layout '*', :haml, :format => :html5
