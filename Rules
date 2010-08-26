@@ -10,13 +10,8 @@
 #   item, use the pattern "/about/*/"; "/about/*" will also select the parent,
 #   because "*" matches zero or more characters.
 
-compile '/stylesheet/' do
-  # don't filter or layout
-end
-
-compile '/' do
-  filter :kramdown
-  layout 'default'
+compile '/stylesheets/*/' do
+  filter :sass
 end
 
 compile '*' do
@@ -24,12 +19,12 @@ compile '*' do
   layout 'default'
 end
 
-route '/stylesheet/' do
-  '/style.css'
+route '/stylesheets/*/' do
+  item.identifier.chop + '.css'
 end
 
 route '*' do
   item.identifier + 'index.html'
 end
 
-layout '*', :erb
+layout '*', :haml, :format => :html5
