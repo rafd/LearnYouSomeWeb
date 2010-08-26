@@ -12,6 +12,11 @@ Recommended read if you're new to version control: [The Git Parable](http://tom.
 
 [Git](http://git-scm.com/) is a DVCS (Distributed Version Control System) designed by Linus Torvalds for the Linux kernel. It is designed to be an extremely fast source control management tool that scales from very small to quite large codebases. It is rapidly growing in popularity and is being used by a wide variety of open source projects, such as WINE, Ruby on Rails, Perl, git itself, and, of course, the Linux kernel.
 
+Getting Started
+---------------
+
+We recommend you use Git in combination with github. Github is an online service where you can host your repositories. To get your system set up, checkout the "Getting started with Git and GitHub" guide [here](http://help.github.com/). 
+
 Workflow
 --------
 
@@ -36,7 +41,7 @@ Here is a brief [video](http://www.youtube.com/watch?v=jqSuWwgbM6Q) your Wrench 
 Q&A
 ---
 
-Q: When I push or pull an app, the data from the database in my local hard drive doesn't get pushed as well and i get an empty application online. How do i export the data too?
+Q: When I push or pull an app, the data from the database in my local hard drive doesn't get pushed as well and I get an empty application online. How do I export the data too?
 
 A: The data from the database probably isn't (and shouldn't be) in your repository: Typically, you only want source code in the repo. If you want to update the database as well, you'll need to export the data and transfer it separately. If your app happens to be on Heroku, you can easily do this using the "heroku db:push" command.
 
