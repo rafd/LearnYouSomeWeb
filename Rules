@@ -10,13 +10,19 @@
 #   item, use the pattern "/about/*/"; "/about/*" will also select the parent,
 #   because "*" matches zero or more characters.
 
+html_extensions = %w[html md]
+
 compile '/stylesheets/*/' do
   filter :sass
 end
 
 compile '*' do
-  filter :kramdown
-  layout 'default'
+  if html_extensions.include?(item[:extension])
+    filter :kramdown
+    layout 'default'
+  else
+    #do nothing
+  end
 end
 
 route '/stylesheets/*/' do
@@ -27,7 +33,13 @@ route '/home/' do
   '/index.html'
 end
 
-html_extensions = %w[html md]
+route '/Gemfile/' do
+  '/Gemfile'
+end
+
+route '/config/' do
+  '/config.ru'
+end
 
 route '*' do
   if html_extensions.include?(item[:extension])
