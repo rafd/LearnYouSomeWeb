@@ -32,7 +32,7 @@ For more information, [W3Schools](http://www.w3schools.com/css/default.asp) is a
 + Overall
   + [CSS Frameworks](http://www.smashingmagazine.com/2007/09/21/css-frameworks-css-reset-design-from-scratch/)
   + [Principles of Cross-Browser CSS](http://www.smashingmagazine.com/2010/06/07/the-principles-of-cross-browser-css-coding/)
-  + [Understanding CSS Layouts] (http://snook.ca/archives/html_and_css/six_keys_to_understanding_css_layouts/)
+  + [Understanding CSS Layouts](http://snook.ca/archives/html_and_css/six_keys_to_understanding_css_layouts/)
   + [Highly Extensible CSS Interfaces](http://cameronmoll.com/archives/2008/02/the_highly_extensible_css_interface_the_series/)
 + Layouts 
   + [Perfectly Multi-Column Liquid Layouts](http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts)
