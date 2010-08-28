@@ -7,6 +7,8 @@ Version Control
 
 The goal of this chapter is to familiarize you with version control, and learn how to use git and github. This is a very useful skill, and can be applied to any sort of programming you may do in the future. 
 
+A short lesson, from last summer's Hacker Academy session can be seen [here](http://vimeo.com/12264388)
+
 What is it?
 -----------
 
