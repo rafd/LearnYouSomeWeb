@@ -8,7 +8,7 @@ Static Website
 Chapter 00: Introduction
 ------------------------
 
-A static website can be created using three basic tools: HTML, CSS, and Javascript.
+A static website can be created using three basic tools: HTML, CSS, and Javascript. Let's cover a brief overview, each will be covered in more detail in following chapters.
 
 ### HTML
 
@@ -48,7 +48,7 @@ Javascript (no relation to java) is primarily a client-side scripting language, 
 #### Resources
 
 + Frameworks
-  + [jQuery]http://jquery.com/)
+  + [jQuery](http://jquery.com/)
   + mooTOols
 + Tools
   + [JS Shrink Tool](http://shrinksafe.dojotoolkit.org/)
@@ -56,3 +56,8 @@ Javascript (no relation to java) is primarily a client-side scripting language, 
   + [Advanced Javascript](http://ejohn.org/apps/learn/)
 + Random Articles
   + [Directed Graphs in JS](http://dhotson.tumblr.com/post/520720950/force-directed-graph-layout-in-javascript)
+
+The First Project
+-----------------
+
+It's time to put what you've learned so far to use. The project for this part of the book is to create a personal website. The following chapters will guide you through exercises to give you the ability and tools to create your own personal static website!

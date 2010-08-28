@@ -40,6 +40,14 @@ There are many other useful git commands worth learning such as git stash, git r
 
 Here is a brief [video](http://www.youtube.com/watch?v=jqSuWwgbM6Q) your Wrench made, giving an example of using git add -interactive. Comment or e-mail if you find it useful, and more will be made.
 
+Tasks
+-----
+
+1. Install git.
+2. Create a [github](http://www.github.com/) account.
+3. Create a me.github.com repository, where me is your github username.
+
+
 Q&A
 ---
 
@@ -49,7 +57,6 @@ A: The data from the database probably isn't (and shouldn't be) in your reposito
 
 Git and Aptana
 --------------
-
 After pulling the project using git, you still need to tell Aptana that the folder is a project. The simple way to do this is to go to File->Import, under "Others" select "Existing Folder As New Project". Browse to find the location of the folder and add the project name. Now you can access the project as usual with Aptana RadRails.
 
 Resources

@@ -8,7 +8,10 @@ title: Introduction
 
 This book will walk you through the basics of web and developing for the web. In particular, the book is broken up into four main sections, each named after its primary lesson. The Introduction will provide a basic overview of the web and some basic concepts. The section entitled Version Control will introduce and teach you about what version control is, why you should use it, and describe the basics of using version control through git and github. From there, in Static Website, the basics of HTML, CSS and jQuery. The final Dynamic Web App section will provide an introduction into the world of Ruby, a framework called Sinatra, how to to deploy these apps, and more.  
 
+In addition to information and lots of reading, throughout the book there will be tasks and exercises. It is recommended that these tasks and exercises be completed before moving on. They will help you to gain experience and practice your hacking skills!
+
 ### Why Learn Web?
+
 
 ### Intro To Web
 
@@ -60,5 +63,5 @@ IDE stands for Integrated Development Environment and is a software application 
 + build automation tools
 + a debugger
 
-In the context of the lessons and tasks in this book, some IDEs which we recommend are: 
+ 
 
