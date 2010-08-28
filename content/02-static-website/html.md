@@ -55,7 +55,7 @@ Exercise
 
 Create a 3-page website, with images and links. This will be the start of your personal website:
 
-  + A home page, with links to your facebook, twitter, any other web presence you may have.
+  + A home page, with an introduction and links to your facebook, twitter, any other web presence you may have.
   + An "About Me" page where you give a brief introduction and picture of yourself.
   + A links page, with links out to your favourite websites. eg. [reddit](http://www.reddit.com), [a jazz blog](http://www.jazzblog.ca) etc etc...
   + The home page, about me page, and links page should all have a navigation bar which links to each of them. This navigation bar should be an unordered list using ul, and li tags.

@@ -60,4 +60,4 @@ Further Reading
   + [Yet-Another-Multicolumn-Layout](http://www.yaml.de/en/home.html)
 + Element Specific
   + [Styling Tables](http://www.smashingmagazine.com/2008/08/13/top-10-css-table-designs/)
-  + [Centered Tab Menu](http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cross-browser-support
+  + [Centered Tab Menu](http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cross-browser-support)
