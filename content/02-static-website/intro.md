@@ -8,7 +8,7 @@ Static Website
 Chapter 00: Introduction
 ------------------------
 
-A static website can be created using three basic tools: HTML, CSS, and Javascript. Let's cover a brief overview, each will be covered in more detail in following chapters.
+A static website can be created using three basic tools: HTML, CSS, and Javascript. After a brief overview, each will be covered in more detail in following chapters.
 
 ### HTML
 
